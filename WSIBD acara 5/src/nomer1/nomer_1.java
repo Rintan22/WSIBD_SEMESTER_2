@@ -1,6 +1,6 @@
 
-package wsibd.acara.pkg5;
-public class WSIBDAcara5 {
+package nomer1;
+public class nomer_1 {
 
     
     public static void main(String[] args) {
